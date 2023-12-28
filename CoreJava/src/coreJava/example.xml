@@ -1,0 +1,13 @@
+<user>
+  <name>John Doe</name>
+  <age>30</age>
+  <address>
+    <city>New York</city>
+    <country>USA</country>
+  </address>
+  <skills>
+    <skill>Java</skill>
+    <skill>JavaScript</skill>
+    <skill>Python</skill>
+  </skills>
+</user>
